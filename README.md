@@ -1,2 +1,2 @@
 # vorn-catalogo
-Catálogo de atacado VORN Parts
+Catálogo de produtos VORN Parts (compatibilidade). Preços, condições e disponibilidade não são publicados aqui.
